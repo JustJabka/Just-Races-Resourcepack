@@ -1,0 +1,58 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "justracesshowcase:font/cooldown_bar/damage_inversion.png",
+            "ascent": 0,
+            "height": 9,
+            "chars": [
+                "\uE000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "justracesshowcase:font/cooldown_bar/ecdysis.png",
+            "ascent": 0,
+            "height": 9,
+            "chars": [
+                "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "justracesshowcase:font/cooldown_bar/frog_tongue.png",
+            "ascent": 0,
+            "height": 9,
+            "chars": [
+                "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "justracesshowcase:font/cooldown_bar/slime_trail.png",
+            "ascent": 0,
+            "height": 9,
+            "chars": [
+                "\uE003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "justracesshowcase:font/cooldown_bar/air_burst.png",
+            "ascent": 0,
+            "height": 9,
+            "chars": [
+                "\uE004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "justracesshowcase:font/cooldown_bar/poisonous_sting.png",
+            "ascent": 0,
+            "height": 9,
+            "chars": [
+                "\uE005"
+            ]
+        }
+    ]
+}

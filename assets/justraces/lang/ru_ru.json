@@ -1,0 +1,8 @@
+{
+    "commands.setrace.success": "Вы стали: %s",
+    "commands.setrace.fail": "Не удалось изменить расу",
+    "commands.setrace.invalid_race": "%s не является валидной расой!",
+    "commands.getrace.success": "Ваша раса: %s",
+
+    "race.none.name": "None"
+}

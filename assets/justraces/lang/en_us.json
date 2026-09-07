@@ -1,0 +1,8 @@
+{
+    "commands.setrace.success": "You became: %s",
+    "commands.setrace.fail": "Failed to change race",
+    "commands.setrace.invalid_race": "%s is not a valid race!",
+    "commands.getrace.success": "Your race: %s",
+
+    "race.none.name": "None"
+}
