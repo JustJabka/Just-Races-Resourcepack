@@ -4,5 +4,10 @@
     "commands.setrace.invalid_race": "%s не является валидной расой!",
     "commands.getrace.success": "Ваша раса: %s",
 
-    "race.none.name": "None"
+    "commands.justraces.reload.start": "Перезагрузка!",
+    "commands.justraces.reload.success": "Успешно перезагружено!",
+
+    "gui.race_selection.title": "Выберите расу",
+
+    "race.none.name": "Отсутсвует"
 }

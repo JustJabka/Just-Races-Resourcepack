@@ -4,5 +4,10 @@
     "commands.setrace.invalid_race": "%s is not a valid race!",
     "commands.getrace.success": "Your race: %s",
 
+    "commands.justraces.reload.start": "Reloading!",
+    "commands.justraces.reload.success": "Successfully Reloaded!",
+
+    "gui.race_selection.title": "Select Race",
+
     "race.none.name": "None"
 }
