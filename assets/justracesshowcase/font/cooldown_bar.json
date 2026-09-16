@@ -53,6 +53,15 @@
             "chars": [
                 "\uE005"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "justracesshowcase:font/cooldown_bar/deep_pockets.png",
+            "ascent": 0,
+            "height": 9,
+            "chars": [
+                "\uE006"
+            ]
         }
     ]
 }

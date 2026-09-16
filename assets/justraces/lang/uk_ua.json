@@ -1,11 +1,18 @@
 {
-    "commands.setrace.success": "Ви стали: %s",
+    "commands.setrace.success": "%s став %s",
     "commands.setrace.fail": "Не вдалось змінити расу",
-    "commands.setrace.invalid_race": "%s не є валідною расою!",
-    "commands.getrace.success": "Ваша раса: %s",
-
+    "commands.getrace.success": "Раса %s - %s",
+    "commands.resetrace.success": "Скинуто расу для %s",
+    "commands.resetrace.fail": "Не вдалось скинути расу",
+    "commands.trans.success": "%s тепер має %s",
+    
     "commands.justraces.reload.start": "Перезавантаження!",
     "commands.justraces.reload.success": "Успішно перезавантажено!",
+
+    "argument.race.invalid": "%s не є валідною расою!",
+    "argument.ability.invalid": "%s не є валідною здібністю!",
+    "argument.trait.invalid": "%s не є валідною рисою!",
+    "argument.item_modifier.invalid": "%s не є валідним модифікатором предмету!",
 
     "gui.race_selection.title": "Виберіть расу",
 
