@@ -2,7 +2,7 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "justraces:font/cooldown_bar/missingno.png",
+            "file": "justraces:font/timer_bar/missingno.png",
             "ascent": 0,
             "height": 8,
             "chars": [

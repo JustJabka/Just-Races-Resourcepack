@@ -16,5 +16,24 @@
 
     "gui.race_selection.title": "Select Race",
 
-    "race.none.name": "None"
+    "race.none.name": "None",
+    
+
+    
+    "race.armat.name": "Armat",
+    "race.buzzling.name": "Buzzling",
+    "race.froggish.name": "Froggish",
+    "race.human.name": "Human",
+    "race.prowler.name": "Prowler",
+    "race.skyzen.name": "Skyzern",
+
+    "ability.justracesshowcase.air_burst.name": "Air Burst",
+    "ability.justracesshowcase.damage_inversion.name": "Damage Inversion",
+    "ability.justracesshowcase.deep_pockets.name": "Deep Pockets",
+    "ability.justracesshowcase.ecdysis.name": "Ecdysis",
+    "ability.justracesshowcase.frog_tongue.name": "Frog Tongue",
+    "ability.justracesshowcase.poisonous_sting.name": "Poisonous Sting",
+    "ability.justracesshowcase.slime_trail.name": "Slime Trail",
+    
+    "container.deep_pockets": "Deep Pockets"
 }
